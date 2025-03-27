@@ -3,5 +3,6 @@ Farama-Notifications==0.0.4
 gymnasium==1.1.1
 numpy==2.2.4
 pygame==2.6.1
+scipy==1.15.2
 typing_extensions==4.13.0
 vizdoom @ git+https://github.com/Farama-Foundation/ViZDoom@63945a3d50c5fb155cc19ac44025a91b8f6ad5e8
